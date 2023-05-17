@@ -12,7 +12,7 @@ import 'package:example/other/refresh_recordable_listview.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
-import 'package:pull_to_refresh_next/pull_to_refresh.dart';
+import 'package:pull_to_refresh_next/pull_to_refresh_next.dart';
 
 enum _ReorderableListType {
   /// A list tile that contains a [CircleAvatar].

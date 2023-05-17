@@ -8,7 +8,7 @@ import 'package:flutter/gestures.dart';
 import 'package:flutter/physics.dart';
 import 'package:flutter/widgets.dart';
 import 'package:flutter/foundation.dart';
-import 'package:pull_to_refresh_next/pull_to_refresh.dart';
+import 'package:pull_to_refresh_next/pull_to_refresh_next.dart';
 import 'package:pull_to_refresh_next/src/internals/slivers.dart';
 import 'internals/indicator_wrap.dart';
 import 'internals/refresh_physics.dart';

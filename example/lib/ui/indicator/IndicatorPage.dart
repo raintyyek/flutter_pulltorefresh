@@ -5,7 +5,7 @@
  */
 
 import 'package:flutter/material.dart';
-import 'package:pull_to_refresh_next/pull_to_refresh.dart';
+import 'package:pull_to_refresh_next/pull_to_refresh_next.dart';
 import 'base/IndicatorActivity.dart';
 
 class IndicatorPage extends StatefulWidget {

@@ -6,7 +6,7 @@
 
 import 'package:flutter/animation.dart';
 import 'package:flutter/cupertino.dart';
-import 'package:pull_to_refresh_next/pull_to_refresh.dart';
+import 'package:pull_to_refresh_next/pull_to_refresh_next.dart';
 import 'package:flutter/widgets.dart';
 import 'package:flutter/material.dart'
     hide RefreshIndicator, RefreshIndicatorState;

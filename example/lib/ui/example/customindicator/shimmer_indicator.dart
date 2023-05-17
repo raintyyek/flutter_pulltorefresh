@@ -7,7 +7,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import '../../../other/shimmer_indicator.dart';
-import 'package:pull_to_refresh_next/pull_to_refresh.dart';
+import 'package:pull_to_refresh_next/pull_to_refresh_next.dart';
 
 class ShimmerIndicatorExample extends StatefulWidget {
   @override

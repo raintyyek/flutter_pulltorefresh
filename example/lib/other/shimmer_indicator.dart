@@ -4,7 +4,7 @@
  * Time:  2019-07-08 10:51
  */
 import 'package:flutter/material.dart' as prefix0;
-import 'package:pull_to_refresh_next/pull_to_refresh.dart';
+import 'package:pull_to_refresh_next/pull_to_refresh_next.dart';
 import 'package:flutter/material.dart'
     hide RefreshIndicator, RefreshIndicatorState;
 import 'package:shimmer/shimmer.dart';

@@ -2,7 +2,7 @@ import 'dart:async';
 
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:pull_to_refresh_next/pull_to_refresh.dart' hide RefreshIndicator;
+import 'package:pull_to_refresh_next/pull_to_refresh_next.dart' hide RefreshIndicator;
 
 /*
    NestedScrollView+SmartRefresher,implements such effect ,refreshing under the SliverAppbar,

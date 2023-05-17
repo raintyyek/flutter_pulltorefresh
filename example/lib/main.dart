@@ -3,7 +3,7 @@ import 'package:example/ui/MainActivity.dart';
 import 'package:example/ui/SecondActivity.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:pull_to_refresh_next/pull_to_refresh.dart';
+import 'package:pull_to_refresh_next/pull_to_refresh_next.dart';
 import 'ui/indicator/base/IndicatorActivity.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
 

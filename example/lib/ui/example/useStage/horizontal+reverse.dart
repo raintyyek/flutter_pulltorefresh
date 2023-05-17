@@ -10,7 +10,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import '../../Item.dart';
 import 'package:http/http.dart' as HTTP;
-import 'package:pull_to_refresh_next/pull_to_refresh.dart';
+import 'package:pull_to_refresh_next/pull_to_refresh_next.dart';
 
 /*
    this example will show you how to implements horizontal refresh or reverse,

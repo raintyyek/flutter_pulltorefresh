@@ -9,7 +9,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
 import 'package:flutter/widgets.dart';
 import 'package:flutter/widgets.dart' as prefix0;
-import 'package:pull_to_refresh_next/pull_to_refresh.dart';
+import 'package:pull_to_refresh_next/pull_to_refresh_next.dart';
 
 /// This example aim to fix the viewport not enough one page,there must be exist some problems that you don't hope that.
 /// relevant issue:#183,#166*
