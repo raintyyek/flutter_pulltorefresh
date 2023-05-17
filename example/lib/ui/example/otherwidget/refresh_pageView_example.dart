@@ -7,7 +7,7 @@
 import 'dart:async';
 
 import 'package:flutter/material.dart';
-import 'package:pull_to_refresh/pull_to_refresh.dart';
+import 'package:pull_to_refresh_next/pull_to_refresh.dart';
 
 /*
   this example will show you how to use vertical PageView as child in SmartRefresher(vertical refresh)

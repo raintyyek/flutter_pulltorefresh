@@ -7,9 +7,9 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/rendering.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:pull_to_refresh/pull_to_refresh.dart';
+import 'package:pull_to_refresh_next/pull_to_refresh.dart';
 import 'package:flutter/material.dart';
-import 'package:pull_to_refresh/src/internals/slivers.dart';
+import 'package:pull_to_refresh_next/src/internals/slivers.dart';
 import 'dataSource.dart';
 import 'test_indicator.dart';
 

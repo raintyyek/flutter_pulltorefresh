@@ -5,7 +5,7 @@
  */
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:pull_to_refresh/pull_to_refresh.dart';
+import 'package:pull_to_refresh_next/pull_to_refresh.dart';
 import '../../../other/expanded_viewport.dart';
 
 /*

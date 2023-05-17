@@ -6,7 +6,7 @@
 
 import 'package:flutter/material.dart'
     hide RefreshIndicator, RefreshIndicatorState;
-import 'package:pull_to_refresh/pull_to_refresh.dart';
+import 'package:pull_to_refresh_next/pull_to_refresh.dart';
 import '../../Item.dart';
 
 class IndicatorActivity extends StatefulWidget {

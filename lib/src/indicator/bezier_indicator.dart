@@ -6,11 +6,11 @@
 
 import 'package:flutter/animation.dart';
 import 'package:flutter/cupertino.dart';
-import 'package:pull_to_refresh/pull_to_refresh.dart';
+import 'package:pull_to_refresh_next/pull_to_refresh.dart';
 import 'package:flutter/widgets.dart';
 import 'package:flutter/material.dart'
     hide RefreshIndicator, RefreshIndicatorState;
-import 'package:pull_to_refresh/src/internals/indicator_wrap.dart';
+import 'package:pull_to_refresh_next/src/internals/indicator_wrap.dart';
 import 'dart:math' as math;
 import 'package:flutter/physics.dart';
 

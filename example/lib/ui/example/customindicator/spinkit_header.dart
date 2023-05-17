@@ -10,7 +10,7 @@
 
 import 'package:flutter/material.dart';
 import '../../../other/custom_spinkit.dart';
-import 'package:pull_to_refresh/pull_to_refresh.dart';
+import 'package:pull_to_refresh_next/pull_to_refresh.dart';
 
 /*
    this example show you how to custom your indicator with CustomHeader and CustomFooter,

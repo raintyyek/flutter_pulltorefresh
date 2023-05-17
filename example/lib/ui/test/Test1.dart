@@ -2,7 +2,7 @@ import 'dart:async';
 
 import 'package:flutter/material.dart';
 import 'package:flutter/scheduler.dart';
-import 'package:pull_to_refresh/pull_to_refresh.dart' hide RefreshIndicator;
+import 'package:pull_to_refresh_next/pull_to_refresh.dart' hide RefreshIndicator;
 
 class Test1 extends StatefulWidget {
   Test1({Key key}) : super(key: key);
