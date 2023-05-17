@@ -42,7 +42,7 @@
 
 ```dart
 
-    import 'package:pull_to_refresh/pull_to_refresh.dart';
+    import 'package:pull_to_refresh_next/pull_to_refresh.dart';
 
 ```
 
@@ -265,7 +265,7 @@
 
 
 ## 更多
-- [属性文档](propertys.md) 或者 [Api/Doc](https://pub.dev/documentation/pull_to_refresh/latest/pulltorefresh/SmartRefresher-class.html)
+- [属性文档](propertys.md) 或者 [Api/Doc](https://pub.dev/documentation/pull_to_refresh_next/latest/pulltorefresh/SmartRefresher-class.html)
 - [自定义指示器](custom_indicator.md)
 - [指示器内部属性介绍](indicator_attribute.md)
 - [更新日志](CHANGELOG.md)

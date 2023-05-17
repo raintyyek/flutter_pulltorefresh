@@ -43,7 +43,7 @@ import package
 
 ```dart
 
-    import 'package:pull_to_refresh/pull_to_refresh.dart';
+    import 'package:pull_to_refresh_next/pull_to_refresh.dart';
 
 ```
 
@@ -276,7 +276,7 @@ Similarly, you may need to work with components like NotificationListener, Scrol
 
 
 ## More
-- [Property Document](propertys_en.md) or [Api/Doc](https://pub.dev/documentation/pull_to_refresh/latest/pulltorefresh/SmartRefresher-class.html)
+- [Property Document](propertys_en.md) or [Api/Doc](https://pub.dev/documentation/pull_to_refresh_next/latest/pulltorefresh/SmartRefresher-class.html)
 - [Custom Indicator](custom_indicator_en.md)
 - [Inner Attribute Of Indicators](indicator_attribute_en.md)
 - [Update Log](CHANGELOG.md)
